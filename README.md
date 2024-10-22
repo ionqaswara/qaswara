@@ -68,7 +68,7 @@ The app also generates detailed reports on team performance after every match. B
   "possession": "65%",
   "top_scorer": "Lionel Messi"
 }
-
+```
 ---
 
 ## Troubleshooting
