@@ -112,7 +112,9 @@ The FC Barcelona app integrates with various platforms to provide a seamless exp
 1. FC Barcelona’s rich history includes numerous titles and a legacy of legendary players[^1^].
 2. Learn more about Barcelona’s history [here](https://www.fcbarcelona.com/en/club/history).
 
+
 ---
+![image](https://github.com/user-attachments/assets/01388444-77c2-4e36-ab5b-f75ea42edee9)
 
 ## Screenshot 🖼️
 
